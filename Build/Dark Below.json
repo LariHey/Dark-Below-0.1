@@ -1,0 +1,13 @@
+{
+"companyName": "LStudios",
+"productName": "Dark Below",
+"dataUrl": "Dark Below.data.unityweb",
+"wasmCodeUrl": "Dark Below.wasm.code.unityweb",
+"wasmFrameworkUrl": "Dark Below.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
